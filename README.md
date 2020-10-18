@@ -1,6 +1,6 @@
 # ADI
 
-Simple voice assistant in polish
+Simple voice assistant in polish (not working yet)
 
 ## TODO
 
